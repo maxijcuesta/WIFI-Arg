@@ -1,0 +1,2 @@
+# WIFI Argentina
+Mediante este análisis se logra ubicar los puntos de acceso a internet de la Red WiFi de País Digital que brinda acceso gratuito a internet en espacios y dependencias públicas de todo el país. Asimismo, se verá la relación que existe entre la cantidad de población y los puntos WIFI.
